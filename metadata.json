@@ -1,0 +1,6 @@
+{
+  "name": "FormPulse - AI Squat & Push-Up Counter & Form Analyzer",
+  "description": "Real-time webcam pose estimation, squat and push-up biomechanics analyzer with chronological workout history powered by TensorFlow.js MoveNet.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
